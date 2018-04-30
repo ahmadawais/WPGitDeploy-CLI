@@ -40,7 +40,7 @@ clear
 
 # ASK INFO
 echo "--------------------------------------------"
-echo "      WPGitDeploy Scrtip                    "
+echo "      WPGitDeploy Script                    "
 echo "      Github to WordPress.org RELEASER      "
 echo "--------------------------------------------"
 echo "Add a new tag to release an update or the current tag to update the current version."
